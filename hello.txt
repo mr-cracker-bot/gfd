@@ -1,6 +1,1 @@
 hel
-<<<<<<< HEAD
-local update
-=======
-Online update
->>>>>>> db6aa31b46fb707f7097f4a4401333c86c6ab633
